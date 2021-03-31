@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1067189811704",
+    "project_id": "challenge-b5e27",
+    "storage_bucket": "challenge-b5e27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067189811704:android:6ace6b8d72f5e204423e0d",
+        "android_client_info": {
+          "package_name": "com.tip.edual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067189811704-5621eb7me28lm481im09nrd0hej6tnhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tip.edual",
+            "certificate_hash": "fac832881857158a9ef7c5fdaadbaba2f250498e"
+          }
+        },
+        {
+          "client_id": "1067189811704-so0t8g9jte4tnr1dsslsn66r7cus83qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxyNypeqOQclkzrh3y2mVmQv6ktTKS20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067189811704-so0t8g9jte4tnr1dsslsn66r7cus83qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
